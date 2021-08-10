@@ -1,10 +1,10 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=FFC0CB&height=350&section=header&text=✔️merge%20to%20dain&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FF4081&height=350&section=header&text=🍒Do%20it%20Dudu&fontSize=65&fontColor=FFFFFF)
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chedda98&count_private=true&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssua-0928&count_private=true&show_icons=true&theme=buefy)
 
 ### 💻Tech Stack📚
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>&nbsp;&nbsp;<br>
@@ -14,7 +14,7 @@
 <br>
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&nbspAws&logoColor=white"/></a>&nbsp;&nbsp;
 <br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/></a>
 
 </div>
 
@@ -43,6 +43,7 @@
 
 
 ### 2020
+- 1st Catholic Univ. Summer Hackathon Web / Design Development
 - 27th SOPT Server Development
 
 <br>
